@@ -1,2 +1,2 @@
 # grc-compliance-portfolio-
-Journey to Cyber Excellence
+Journey to Cyber Excellence-  This portfolio documents the end‑to‑end implementation of an ISO 27001‑aligned Information Security Management System (ISMS). It will  include policies, procedures, risk assessments, to mention a few of the activities. The goal is to be able to provide, as a GRC practioner, a practical, real‑world samples of how an organisation can work toward ISO 27001 certification.
