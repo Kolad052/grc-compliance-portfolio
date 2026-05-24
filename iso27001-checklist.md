@@ -1,3 +1,4 @@
+[CyberShift With Funke-Assignment.docx](https://github.com/user-attachments/files/28198286/CyberShift.With.Funke-Assignment.docx)
 
 # ISO 27001 Compliance Checklist
 **Framework:** ISO 27001:2022 Information Security Management System  
